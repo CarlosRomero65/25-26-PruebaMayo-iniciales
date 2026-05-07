@@ -1,7 +1,7 @@
 
 services:
   examen:
-    image: xxxxxx/yyyyyyyyyy
+    image: brezodtl/api-romero
     ports:
       - 80:8000
     restart: always
